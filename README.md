@@ -1,4 +1,6 @@
 # janebot
-Just ANother Event Extractor
+Just ANother Event Explorer
 
-Here we go now, another trip 'round the world for us. Dreaming of the day we do the same but in a bigger bus. 
+JANE is a distributed, networked tiny service exploring IRL events by reading structured microdata, classifying it using a naive multinomial Bayes model, and sharing it with other nodes in the JANE network over the AT Protocol firehose.
+
+What could possibly go wrong.
